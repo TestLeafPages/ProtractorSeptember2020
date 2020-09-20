@@ -1,0 +1,14 @@
+Angular Specific Locators in Protractor 
+
+1) model	     : ng-model
+2) binding	     : ng-bind [Works on a partial match]
+3) exactBinding      : ng-bind [Works on an exact match]
+4) buttonText	     : locates based on the text in a button
+5) partialButtonText : locates based on the part of the text in a button
+6) repeater	     : locates based on the value given to the repeater
+7) exactRepeater     : locates based on the exact value given to the repeater
+8) cssContainingText : locates by the text using css selector
+9) options	     : locates based on the ng-options attribute
+10) deepCss	     : Needs to be used in case Shadow DOM
+11) css		     : Based on css value
+12) addLocator	     : Self Learn / Homework
