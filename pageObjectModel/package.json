@@ -1,0 +1,13 @@
+{
+  "name": "pageObjectModel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "HomePage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "allure": "node_modules/.bin/allure generate ./allure-results --clean && allure open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
